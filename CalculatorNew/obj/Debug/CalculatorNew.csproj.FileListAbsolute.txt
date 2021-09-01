@@ -1,0 +1,7 @@
+C:\Users\Holiks\source\repos\CalculatorNew\CalculatorNew\bin\Debug\CalculatorNew.exe.config
+C:\Users\Holiks\source\repos\CalculatorNew\CalculatorNew\bin\Debug\CalculatorNew.exe
+C:\Users\Holiks\source\repos\CalculatorNew\CalculatorNew\bin\Debug\CalculatorNew.pdb
+C:\Users\Holiks\source\repos\CalculatorNew\CalculatorNew\obj\Debug\CalculatorNew.csproj.AssemblyReference.cache
+C:\Users\Holiks\source\repos\CalculatorNew\CalculatorNew\obj\Debug\CalculatorNew.csproj.CoreCompileInputs.cache
+C:\Users\Holiks\source\repos\CalculatorNew\CalculatorNew\obj\Debug\CalculatorNew.exe
+C:\Users\Holiks\source\repos\CalculatorNew\CalculatorNew\obj\Debug\CalculatorNew.pdb
